@@ -26,6 +26,7 @@ int main(int argc, const char * argv[]) {
 
 ```
 ## Compile
+The Objective-C compiler is called **clang**
 ```bash
 clang -fobjc-arc main.m -o TermApp
 ```
