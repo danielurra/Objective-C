@@ -30,7 +30,7 @@ int main(int argc, const char * argv[]) {
 clang -fobjc-arc main.m -o TermApp
 ```
 ## Execute
-```bash
+```objectivec
 ./TermApp
 ```
 ![execute](https://github.com/danielurra/Objective-C/assets/51704179/dba1ced5-95a1-4a5b-9ce5-63f89603409a)
