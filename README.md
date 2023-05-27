@@ -1,5 +1,5 @@
 # Objective-C
-Objective-C is an **Object-oriented Programming(OOP)** language for Apple's iOS and OS X platforms.</br>
+Objective-C is an `Object-oriented Programming`(OOP) language for Apple's iOS and OS X platforms.</br>
 ![objective-c](https://github.com/danielurra/Objective-C/assets/51704179/11818194-b341-4eb4-8450-8fde639f6196)</br>
 ## My first console programm
 ![HelloWorld-objective-c](https://github.com/danielurra/Objective-C/assets/51704179/060e3807-ab9e-46cd-8f53-34ad9e1dd340)</br>
