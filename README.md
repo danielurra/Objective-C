@@ -27,12 +27,12 @@ int main(int argc, const char * argv[]) {
 ```
 ## Compile
 The Objective-C compiler is called **clang**, the following command builds an executable file called **TermApp**</br>
-```c
+```objective-c
 clang -fobjc-arc main.m -o TermApp
 ```
 Automated Reference Counting (ARC), is a memory-management technique, the compiler flag **-fobjc-arc** tells the compiler to use ARC.
 ## Execute
-```objc
+```objective-c
 ./TermApp
 ```
 ![execute](https://github.com/danielurra/Objective-C/assets/51704179/dba1ced5-95a1-4a5b-9ce5-63f89603409a)
