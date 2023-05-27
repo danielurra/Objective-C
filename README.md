@@ -4,7 +4,7 @@ Objective-C is an OOP (object-oriented programming) for Apple's iOS and OS X pla
 ## My first console programm
 ![HelloWorld-objective-c](https://github.com/danielurra/Objective-C/assets/51704179/060e3807-ab9e-46cd-8f53-34ad9e1dd340)</br>
 ## Grab the code
-```bash
+```objective-c
 //
 //  main.m
 //  MyFirstProgram
