@@ -16,7 +16,6 @@ Objective-C is an `Object-oriented Programming` language for Apple's iOS and OS 
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
         NSLog(@"Hello, Objective-C!");
         NSLog(@"My first console App");
 
