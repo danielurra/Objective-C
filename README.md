@@ -1,5 +1,6 @@
 # Objective-C
 Objective-C is an `Object-oriented Programming` language for Apple's iOS and OS X platforms.</br>
+It expands the old good **C** and because of that Objective-c is a superset of **C**.
 ![objective-c](https://github.com/danielurra/Objective-C/assets/51704179/11818194-b341-4eb4-8450-8fde639f6196)</br>
 ## My first console programm
 ![HelloWorld-objective-c](https://github.com/danielurra/Objective-C/assets/51704179/060e3807-ab9e-46cd-8f53-34ad9e1dd340)</br>
