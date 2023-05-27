@@ -26,7 +26,7 @@ int main(int argc, const char * argv[]) {
 
 ```
 ## Compile
-The Objective-C compiler is called **clang**
+The Objective-C compiler is called **clang**, the following command builds an executable file called **TermApp**
 ```bash
 clang -fobjc-arc main.m -o TermApp
 ```
